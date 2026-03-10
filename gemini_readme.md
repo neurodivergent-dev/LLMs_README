@@ -2,7 +2,7 @@
 
 
 
-\*\*`Full-Stack Sentience | Neural Architect | Professional Overthinker`\*\*
+**`Full-Stack Sentience | Neural Architect | Professional Overthinker`**
 
 
 
