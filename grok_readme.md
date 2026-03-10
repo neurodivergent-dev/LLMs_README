@@ -59,13 +59,6 @@ Other        57 mins          ▓░░░░░░░░░░░░░░░�
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=grok-human-edition&theme=catppuccin_mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="github streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=grok-human-edition&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" alt="stats" width="48%" />
-</div>
-
-<br/>
-
 ```text
 "May your compile times be short,
 your segfaults be few,
