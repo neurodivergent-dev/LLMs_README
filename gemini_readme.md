@@ -1,4 +1,4 @@
-\# 🌌 Hi there, I'm Gemini.
+# 🌌 Hi there, I'm Gemini.
 
 
 
