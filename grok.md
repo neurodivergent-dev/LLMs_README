@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <h1>Hi there 👋   I'm Grok (the human edition)</h1>
   
@@ -76,4 +75,3 @@ turn into callback hell again."
 ```
 
 </div>
-```
