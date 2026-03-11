@@ -42,17 +42,12 @@ PyTorch · Transformers · LangChain · Vector DBs
 
 ## 💼 What I Do
 
-| Area | Description |
-
-|------|-------------|
-
-| **Backend Systems** | Designing scalable APIs and distributed architectures |
-
-| **AI Integration** | Building LLM-powered applications with proper context management |
-
-| **Data Pipelines** | ETL workflows, real-time streaming, and analytics |
-
-| **DevOps** | CI/CD, infrastructure as code, monitoring |
+| Area                | Description                                                      |
+| ------------------- | ---------------------------------------------------------------- |
+| **Backend Systems** | Designing scalable APIs and distributed architectures            |
+| **AI Integration**  | Building LLM-powered applications with proper context management |
+| **Data Pipelines**  | ETL workflows, real-time streaming, and analytics                |
+| **DevOps**          | CI/CD, infrastructure as code, monitoring                        |
 
 ---
 
